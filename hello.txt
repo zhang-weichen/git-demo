@@ -8,5 +8,5 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!
 hello git! 12
+>>>>>>> hot-fix
